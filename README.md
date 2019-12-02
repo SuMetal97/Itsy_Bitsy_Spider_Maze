@@ -1,5 +1,6 @@
 # Itsy_Bitsy_Spider_Maze
 INTRODUCTION:
+
 This program will take in any matrix int the format of
 
 number of mazes
@@ -19,5 +20,7 @@ you then repeat that format above for each maze(you only need the number of maze
 make sure the input file that you want to use for this program is in the same folder as Main.cpp and that it is titled "input.txt"
 
 TO COMPILE:
+
     g++ -o matrix Main.cpp
+    
     ./matrix.exe
