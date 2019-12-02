@@ -23,4 +23,4 @@ TO COMPILE:
 
     g++ -o matrix Main.cpp
     
-    ./matrix.exe
+    ./matrix
